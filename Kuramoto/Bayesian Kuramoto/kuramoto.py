@@ -3,8 +3,8 @@ from __future__ import print_function
 import numpy as np
 from scipy.integrate import ode
 
-__version__ = '0.3'
-__author__ = 'Dawid Laszuk'
+
+
 
 class Kuramoto(object):
     """
